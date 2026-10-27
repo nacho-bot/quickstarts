@@ -11,7 +11,7 @@ tags:
   value: settings
 - kind: product-families
   value: iam
-- kind: use-case
+- ki: use-case
   value: system-configuration
 - kind: use-case
   value: identity-and-access
