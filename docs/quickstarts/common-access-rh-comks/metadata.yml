@@ -1,5 +1,5 @@
 kind: QuickStarts
-name: common-access-rh-comk
+name: common-access-rh-comks
 tags:
 - kind: bundle
   value: iam
